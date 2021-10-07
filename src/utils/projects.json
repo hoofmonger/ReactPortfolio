@@ -1,44 +1,44 @@
 [
     {
     "image": "/Pictures/DayPlanner.JPG",
-    "name": "",
-    "description": "",
-    "github": "",
-    "deployment": ""
+    "name": "Day Planner",
+    "description": "a responsive day planner written in vanilla JS",
+    "github": "https://github.com/hoofmonger/day-planner",
+    "deployment": "https://hoofmonger.github.io/day-planner/"
 },
 {
-    "image": "",
-    "name": "",
-    "description": "",
-    "github": "",
-    "deployment": ""
+    "image": "/Pictures/HomepageProject.JPG",
+    "name": "Custom Homepage",
+    "description": "a custom homepage written in vanilla JS that displays weather, facts, and jokes as requested",
+    "github": "https://github.com/jpolmon/Project01",
+    "deployment": "https://jpolmon.github.io/Project01/"
 },
 {
-    "image": "",
-    "name": "",
-    "description": "",
-    "github": "",
-    "deployment": ""
+    "image": "/Pictures/MathQuiz.JPG",
+    "name": "Math Quiz",
+    "description": "a math quiz written in JS",
+    "github": "https://github.com/hoofmonger/coding-quiz",
+    "deployment": "https://github.com/hoofmonger/coding-quiz"
 },
 {
-    "image": "",
-    "name": "",
-    "description": "",
-    "github": "",
-    "deployment": ""
+    "image": "/Pictures/EmployeeManagmentSystem.jpg",
+    "name": "Employee Management System",
+    "description": "a backend employee management system written in Node.js using inquirer",
+    "github": "https://github.com/hoofmonger/employeeTracker",
+    "deployment": "https://drive.google.com/file/d/1yZbqP-ADAdhVNyR8vjHBg3O2-clCrDXK/view"
 },
 {
-    "image": "",
-    "name": "",
-    "description": "",
-    "github": "",
-    "deployment": ""
+    "image": "/Pictures/READMEgenerator.jpg",
+    "name": "README Generator",
+    "description": "a README generator written for Node.js using inquirer",
+    "github": "https://github.com/hoofmonger/good-README-generator",
+    "deployment": "https://drive.google.com/file/d/1YPmFfdmGkzKlKOJDrBdUlTOZJ1o8V_Vd/view"
 },
 {
-    "image": "",
-    "name": "",
-    "description": "",
-    "github": "",
-    "deployment": ""
+    "image": "/Pictures/NoteTaker.jpg",
+    "name": "Note Taker",
+    "description": "a note taking app",
+    "github": "https://github.com/hoofmonger/noteTaker",
+    "deployment": "https://boiling-forest-96815.herokuapp.com"
 }
 ]

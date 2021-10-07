@@ -1,0 +1,175 @@
+nav{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    font-size: 30px;
+}
+#header{
+    display: flex;
+    position: absolute top;
+    flex-direction: row-reverse;
+    font-size: 50px;
+    font-weight: lighter;
+}
+header{
+    display: flex;
+    position: static;
+    font-size: 75px;
+    text-align: center;
+    font-weight: bolder;
+}
+*{
+    background-color: darkslategray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite; 
+}
+
+.picture-1{
+    display: flex;
+    flex-flow: row;
+    border-radius: 10px;
+    max-width: 250px;
+    max-height: 250px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.projects{
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    flex-wrap: wrap;
+    list-style: none;
+    font-size: 20px;
+}
+
+.bigimage{
+    max-width: 600px;
+    height: auto;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.bigimage:hover{
+    max-width: 850px;
+    height: auto;
+}
+
+
+.smallimage{
+    max-width: 450px;
+    height: auto;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.smallimage:hover{
+    max-width: 650px;
+    height: auto;
+}
+
+
+.portpic{
+    font-size: 30px;
+   
+}
+
+#link1{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#link2{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#link3{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#link4{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#link5{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+#link6{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+#link1:hover{
+    opacity: .5;
+   
+}
+
+#link2:hover{
+    opacity: .5;
+    
+}
+
+#link3:hover{
+    opacity: .5;
+}
+
+#link4:hover{
+    opacity: .5;
+}
+
+#link5:hover{
+    opacity: .5;
+}
+
+#link6:hover{
+    opacity: .5;
+}
+
+
+.proflink{
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    display: flex;
+    align-items: left;
+    align-content: left;
+    text-align: left;
+    flex-direction: column;
+}
+
+.contactHeader{
+font-size: 75px;
+}
+
+.contact{
+    font-size: 30px;
+    display: flex;
+    flex-direction: column;
+    align-content: left;
+}
+
